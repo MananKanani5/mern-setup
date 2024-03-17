@@ -1,11 +1,16 @@
-# mern-setup
-This repository contains a basic MERN (MongoDB, Express.js, React.js, Node.js) setup for building full-stack web applications following the MVC (Model-View-Controller) architecture.. It includes separate directories for the backend and frontend components, allowing for modular development and easy deployment.
+# MERN Boilerplate with MVC Architecture
+This repository contains a MERN (MongoDB, Express.js, React.js, Node.js) boilerplate for building full-stack web applications following the MVC (Model-View-Controller) architecture. It includes separate directories for the backend and frontend components, allowing for modular development and easy deployment.
 
 Don't forget to star⭐ this repository if you find it helpful! It helps to show appreciation for the work put into this project.
 
 For more information about me, visit my [Portfolio](https://www.manankanani.in). You can also reach out to me directly through the contact form on my website.
 
-## Installation
+## Technolgies Used
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E ) ![ReactJS](https://img.shields.io/badge/ReactJS-%23323330.svg?style=for-the-badge&logo=react ) ![NodeJS](https://img.shields.io/badge/NodeJS-%23323330.svg?style=for-the-badge&logo=nodedotjs ) ![Express](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express ) ![MongoDB](https://img.shields.io/badge/MongoDB-%23323330.svg?style=for-the-badge&logo=mongodb )
+
+
+# Installation Guide
 
 1. **Clone the repository:**
 
@@ -54,7 +59,7 @@ MONGO_URI = "YOUR_MONGO_URI_STRING"
 ```
 
 
-## Running
+# How to Run the Project ?
 
 1. **In the root directory mern-setup, start the application:**
 ```bash
