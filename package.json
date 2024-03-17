@@ -1,0 +1,19 @@
+{
+  "name": "mern-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && npm start",
+    "start": "concurrently \"npm run frontend\" \"npm run backend\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "react-scripts": "^5.0.1"
+  }
+}
