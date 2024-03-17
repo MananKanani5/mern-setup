@@ -1,6 +1,10 @@
 # mern-setup
 This repository contains a basic MERN (MongoDB, Express.js, React.js, Node.js) setup for building full-stack web applications following the MVC (Model-View-Controller) architecture.. It includes separate directories for the backend and frontend components, allowing for modular development and easy deployment.
 
+Don't forget to star⭐ this repository if you find it helpful! It helps to show appreciation for the work put into this project.
+
+For more information about me, visit my [Manan Kanani](https://www.manankanani.in). You can also reach out to me directly through the contact form on my website.
+
 ## Installation
 
 1. **Clone the repository:**
