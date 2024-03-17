@@ -3,7 +3,7 @@ This repository contains a basic MERN (MongoDB, Express.js, React.js, Node.js) s
 
 Don't forget to star⭐ this repository if you find it helpful! It helps to show appreciation for the work put into this project.
 
-For more information about me, visit my [Manan Kanani](https://www.manankanani.in). You can also reach out to me directly through the contact form on my website.
+For more information about me, visit my [Portfolio](https://www.manankanani.in). You can also reach out to me directly through the contact form on my website.
 
 ## Installation
 
